@@ -24,7 +24,11 @@ I am genuinely excited about the opportunity to join your team as a Security Ana
 ## Certifications
 
 <div>
-<a href="https://coursera.org/verify/8WS7HAIGUI0Y"><img src="https://img.shields.io/badge/google_foundation(cyber)-00A4EF?style=for-the-badge&logo=google&logoColor=white" />
+<a href="https://coursera.org/verify/8WS7HAIGUI0Y"><img src="https://img.shields.io/badge/google_foundation(cyber)-00A4EF?style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://coursera.org/verify/9XOVDSGGVF31"><img src="https://img.shields.io/badge/google_Manage_security_risk-00A4EF?style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://coursera.org/verify/XGJSENZJYMJF"><img src="https://img.shields.io/badge/IBM_introduction_to_cybersecurity-005571?style=for-the-badge&logo=ibm&logoColor=white" /></a>
+
+
 
 
 </div>
