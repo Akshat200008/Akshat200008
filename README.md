@@ -9,7 +9,7 @@ I am genuinely excited about the opportunity to join your team as a Security Ana
 
 
 ## Projects
-- Wireshark packet capture analysis 
+- Wireshark packet capture analysis (macOS Infostealer Malware Analysis) 
 
 ## Skills
 
