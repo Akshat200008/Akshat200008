@@ -8,9 +8,17 @@ Cybersecurity is about people and technology, with clear communication being key
 I am genuinely excited about the opportunity to join your team as a Security Analyst. With a strong background in cybersecurity and a passion for protecting digital assets, I am eager to contribute to your organization’s success. I am particularly drawn to this role because it allows me to leverage my skills in threat detection and risk management to enhance your security infrastructure. I am committed to staying ahead of emerging threats and continuously improving security protocols to safeguard your critical information.
 
 
+## Projects
+- Wireshark packet capture analysis 
 
+## Skills
 
-
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Network Traffic Analysis (Wireshark)          | Wireshark packet capture analysis |
+| Malware Triage & Attack Reconstruction | Wireshark packet capture analysis |
+| Incident Response & IoC Extraction         | Wireshark packet capture analysis|
+| Technical Forensic Reporting      | Wireshark packet capture analysis|
 
 ## Certifications
 
