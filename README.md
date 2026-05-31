@@ -9,7 +9,8 @@ I am genuinely excited about the opportunity to join your team as a Security Ana
 
 
 ## Projects
-- Wireshark packet capture analysis (macOS Infostealer Malware Analysis) 
+- Wireshark packet capture analysis (macOS Infostealer Malware Analysis)
+- Using Linux commands to manage file permissions
 
 ## Skills
 
@@ -19,6 +20,10 @@ I am genuinely excited about the opportunity to join your team as a Security Ana
 | Malware Triage & Attack Reconstruction | Wireshark packet capture analysis |
 | Incident Response & IoC Extraction         | Wireshark packet capture analysis|
 | Technical Forensic Reporting      | Wireshark packet capture analysis|
+| Linux Command-Line Proficiency | Using Linux commands to manage file permissions |
+| Access Control Management | Using Linux commands to manage file permissions |
+| Security Auditing & Enforcement | Using Linux commands to manage file permissions |
+
 
 ## Certifications
 
