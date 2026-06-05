@@ -11,6 +11,7 @@ I am genuinely excited about the opportunity to join your team as a Security Ana
 ## Projects
 - Wireshark packet capture analysis (macOS Infostealer Malware Analysis)
 - Using Linux commands to manage file permissions
+- Applying filters to SQL queries
 
 ## Skills
 
@@ -23,6 +24,10 @@ I am genuinely excited about the opportunity to join your team as a Security Ana
 | Linux Command-Line Proficiency | Using Linux commands to manage file permissions |
 | Access Control Management | Using Linux commands to manage file permissions |
 | Security Auditing & Enforcement | Using Linux commands to manage file permissions |
+| Relational Database Querying | Applying filters to SQL queries |
+| Complex Data Filtering | Applying filters to SQL queries |
+| Pattern Matching | Applying filters to SQL queries |
+| Security Log Analysis | Applying filters to SQL queries |
 
 
 ## Certifications
