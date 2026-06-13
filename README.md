@@ -35,11 +35,26 @@ I am genuinely excited about the opportunity to join your team as a Security Ana
 <div>
 <a href="https://coursera.org/verify/8WS7HAIGUI0Y"><img src="https://img.shields.io/badge/google_foundation(cyber)-00A4EF?style=for-the-badge&logo=google&logoColor=white" /></a>
 <a href="https://coursera.org/verify/9XOVDSGGVF31"><img src="https://img.shields.io/badge/google_Manage_security_risk-00A4EF?style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://coursera.org/verify/OA8IYZ6SXUE8"><img src="https://img.shields.io/badge/google_Networks_and_Network_Security-00A4EF?style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://coursera.org/verify/9DHAP5QBMBHQ"><img src="https://img.shields.io/badge/google_Tools_of_the_Trade:Linux_and_SQL-00A4EF?style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://coursera.org/verify/4GONZ40DSZKN"><img src="https://img.shields.io/badge/google_Introduction_to_AI-00A4EF?style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://coursera.org/verify/KJG66Y6RRMHC"><img src="https://img.shields.io/badge/google_Maximize_Productivity_with_AI_Tools-00A4EF?style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://coursera.org/verify/TODVW5LB9Y41"><img src="https://img.shields.io/badge/google_Discover_the_Art_of_Prompting-00A4EF?style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://coursera.org/verify/W1X3XJKBMZBV"><img src="https://img.shields.io/badge/google_Use_AI_Responsibly-00A4EF?style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://coursera.org/verify/OTZOBAMQM0IV"><img src="https://img.shields.io/badge/google_Stay_Ahead_of_the_AI_curve-00A4EF?style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://coursera.org/verify/specializat
+ion/3HF4OI1V3RWG"><img src="https://img.shields.io/badge/google_AI_Essentials_Specialization-1D1C57?style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://coursera.org/verify/6NIT4JD18IXR"><img src="https://img.shields.io/badge/google_AI_Fundametals-00A4EF?style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://coursera.org/verify/M2YC6CEMETH5"><img src="https://img.shields.io/badge/google_AI_for_Brainstorming_and_Planning-00A4EF?style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://coursera.org/verify/SNDA3KTFD7M0"><img src="https://img.shields.io/badge/google_AI_for_Research_and_Insights-00A4EF?style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://coursera.org/verify/LSS3B8QZKTXS"><img src="https://img.shields.io/badge/UVA_Introduction_to_Personal_Branding-orange?style=for-the-badge&logo=UVA&logoColor=white" /></a>
+
 <a href="https://coursera.org/verify/XGJSENZJYMJF"><img src="https://img.shields.io/badge/IBM_introduction_to_cybersecurity-005571?style=for-the-badge&logo=ibm&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/deloitte_cyber_job_simulation-green?style=for-the-badge&logo=deloitte&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/deloitte_data_analytics_job_simulation-green?style=for-the-badge&logo=deloitte&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/BCG_Introduction_to_Data_for_Decision_Makers_job_simulation-darkgreen?style=for-the-badge&logo=deloitte&logoColor=white" /></a>
 
-FOR DELOITTE PLEASE CHECK THE LINKEDIN PAGE 
+FOR DELOITTE AND BCG PLEASE CHECK THE LINKEDIN PAGE 
 
 
 
