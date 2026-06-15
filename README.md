@@ -47,8 +47,8 @@ ion/3HF4OI1V3RWG"><img src="https://img.shields.io/badge/google_AI_Essentials_Sp
 <a href="https://coursera.org/verify/6NIT4JD18IXR"><img src="https://img.shields.io/badge/google_AI_Fundametals-00A4EF?style=for-the-badge&logo=google&logoColor=white" /></a>
 <a href="https://coursera.org/verify/M2YC6CEMETH5"><img src="https://img.shields.io/badge/google_AI_for_Brainstorming_and_Planning-00A4EF?style=for-the-badge&logo=google&logoColor=white" /></a>
 <a href="https://coursera.org/verify/SNDA3KTFD7M0"><img src="https://img.shields.io/badge/google_AI_for_Research_and_Insights-00A4EF?style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://coursera.org/verify/FFIT14V8FPP4"><img src="https://img.shields.io/badge/google_AI_for_Content_Creation-00A4EF?style=for-the-badge&logo=google&logoColor=white" /></a>
 <a href="https://coursera.org/verify/LSS3B8QZKTXS"><img src="https://img.shields.io/badge/UVA_Introduction_to_Personal_Branding-orange?style=for-the-badge&logo=UVA&logoColor=white" /></a>
-
 <a href="https://coursera.org/verify/XGJSENZJYMJF"><img src="https://img.shields.io/badge/IBM_introduction_to_cybersecurity-005571?style=for-the-badge&logo=ibm&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/deloitte_cyber_job_simulation-green?style=for-the-badge&logo=deloitte&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/deloitte_data_analytics_job_simulation-green?style=for-the-badge&logo=deloitte&logoColor=white" /></a>
