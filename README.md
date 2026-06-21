@@ -12,6 +12,8 @@ I am genuinely excited about the opportunity to join your team as a Security Ana
 - Wireshark packet capture analysis (macOS Infostealer Malware Analysis)
 - Using Linux commands to manage file permissions
 - Applying filters to SQL queries
+- AI Tiebreaker App
+
 
 ## Skills
 
@@ -28,6 +30,11 @@ I am genuinely excited about the opportunity to join your team as a Security Ana
 | Complex Data Filtering | Applying filters to SQL queries |
 | Pattern Matching | Applying filters to SQL queries |
 | Security Log Analysis | Applying filters to SQL queries |
+| AI-Assisted Development & Debugging | AI Tiebreaker App |
+| Prompt Engineering & Rapid Prototyping | AI Tiebreaker App |
+| Front-End Architecture & DOM Validation | AI Tiebreaker App |
+| QA Testing & Multi-Format Verification | AI Tiebreaker App |
+| Technical Documentation & Portfolio Building | AI Tiebreaker App |
 
 
 ## Certifications
