@@ -13,6 +13,8 @@ I am genuinely excited about the opportunity to join your team as a Security Ana
 - Using Linux commands to manage file permissions
 - Applying filters to SQL queries
 - AI Tiebreaker App
+- AI brand builder app
+
 
 
 ## Skills
@@ -31,10 +33,13 @@ I am genuinely excited about the opportunity to join your team as a Security Ana
 | Pattern Matching | Applying filters to SQL queries |
 | Security Log Analysis | Applying filters to SQL queries |
 | AI-Assisted Development & Debugging | AI Tiebreaker App |
-| Prompt Engineering & Rapid Prototyping | AI Tiebreaker App |
+| Prompt Engineering  | AI Tiebreaker App , AI brand builder app |
+| Rapid Prototyping | AI Tiebreaker App , AI brand builder app |
 | Front-End Architecture & DOM Validation | AI Tiebreaker App |
 | QA Testing & Multi-Format Verification | AI Tiebreaker App |
 | Technical Documentation & Portfolio Building | AI Tiebreaker App |
+| LLM Integration | AI brand builder app |
+| Workflow Automation | AI brand builder app |
 
 
 ## Certifications
